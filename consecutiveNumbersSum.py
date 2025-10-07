@@ -25,7 +25,7 @@ class Solution:
                 count += 1
             excess = tempSum - n
             j = startNum
-            while ((j - 1 + startNum) * (j - startNum)) // 2 < excess:
+            while ((j - 1 + startNum) * (j - startNum)) // 2 < excess: #finds the sum of all numbers between startNum and j
                 j+=1
             if j == startNum:
                 startNum += 1
