@@ -1,4 +1,4 @@
-# Challenge Consecutive Numbers Sum
+# Challenge: Consecutive Numbers Sum
 # Difficulty: Hard
 
 # The following solution gives the correct answer for all n
